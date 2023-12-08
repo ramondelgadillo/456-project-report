@@ -1,1 +1,2 @@
 # NIOCE
+print("Hello, world!")
