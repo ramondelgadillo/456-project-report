@@ -1,2 +1,0 @@
-# NIOCE
-print("Hello, world!")
